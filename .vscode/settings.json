@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "musical typing prototype.sln"
+    "dotnet.defaultSolution": "musical-typing-prototype-unity.sln"
 }
